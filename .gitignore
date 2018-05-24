@@ -1,0 +1,5 @@
+.next/
+app/.next/
+build-server/
+.stfolder/
+node_modules/

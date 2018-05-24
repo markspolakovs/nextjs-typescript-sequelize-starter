@@ -1,0 +1,12 @@
+{
+    "env": "development",
+    "database": {
+        "development": {
+            "driver": "pg",
+            "host": "127.0.0.1",
+            "database": "maglev",
+            "username": "root",
+            "password": "postgres"
+        }
+    }
+}

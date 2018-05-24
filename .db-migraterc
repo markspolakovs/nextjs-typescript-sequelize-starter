@@ -1,0 +1,4 @@
+{
+    "configFile": "db-migrate-config.js",
+    "migrations-dir": "./server/db/migrations"
+}
